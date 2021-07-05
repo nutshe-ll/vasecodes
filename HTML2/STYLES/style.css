@@ -1,0 +1,278 @@
+/**Pseudo Links for webs**/
+
+
+/**pseudolink**/
+a.pseudolink:link {color: yellow}
+a.pseudolink:visited {color: green}
+a.pseudolink:hover {color:  black}
+a.pseudolink:active {color: aqua}
+
+a.psed:hover {color: rgb(35, 141, 212)}
+
+/**-------------------------------**/
+
+/**main-link**/
+a.main-link:link {color: black}
+a.main-link:visited {color: black}
+a.main-link:hover {color: black}
+a.main-link:active {color: black}
+
+/**-------------------------------**/
+
+/**para-link**/
+a.para-link:hover {color: red}
+a.toc:visited {color: #0000EE;}
+
+/**-------------------------------**/
+
+/**Available PSEUDO LINKS
+
+-------------------------------
+
+pseudolink = pseudolink
+main link = main-link
+para link = para-link
+
+-------------------------------**/
+
+
+/**Fonts for webs**/
+.odibee-sans{
+    font-family: "Odibee Sans";
+}
+.comicneue{
+    font-family: "Comic Neue";
+}
+.bebasneue{
+    font-family: "Bebas Neue";
+}
+.staatliches{
+    font-family: "Staatliches";
+}
+.dohyeon{
+    font-family: "Do Hyeon";
+}
+/**-------------------------------**/
+
+/**Available FONTS
+
+-------------------------------
+
+Odibee Sans = odibee-sans
+Comic Neue = comicneue
+Bebas Neue = bebasneue
+Staatliches = staatliches
+
+-------------------------------**/
+
+
+/**Padding, Margin, Border for this webs**/
+
+/**padding-1**/
+.padding-1{
+    padding-left: 20px;
+}
+.padpad2{
+    padding-left: 100;
+    padding-top: 1000;
+    padding-right: 10000;
+}
+
+/**-------------------------------**/
+
+/**space-padding**/
+.space-padding{
+    padding-left: 20px;
+    padding: 30px
+}
+.big.space-padding{
+    padding-left: 88px
+}
+.padding-bottom{
+    padding-bottom: 1px;
+}
+.xpadding{
+    padding-left: 52px;
+    padding-top: 88px;
+}
+.xdesc{
+    padding-left: 33px;
+}
+
+/**-------------------------------**/
+
+/**border-1**/
+.border-1{
+    border-style: solid;
+}
+
+/**-------------------------------**/
+
+/**colored-border**/
+.colored-border{
+    border-style: inset;
+    border-color: aqua;
+}
+
+/**colored-border2**/
+.colored-border2{
+    border-style: inset;
+    border-color: purple;
+}
+
+/**-------------------------------**/
+
+/**border-1 colored**/
+.border-1.colored{
+    border-style: solid;
+    border-color: rgb(33, 189, 189);
+}
+
+/**border-2 colored**/
+.border-2.colored{
+    border-style: solid;
+    border-color: purple;
+}
+
+/**Special**/
+.thick-text{
+    font-weight: bold;
+}
+.big-text{
+    font-size: 28px;
+}
+.no-link{
+    text-decoration: none;
+}
+.no-link.colored{
+    color: orange;
+}
+.no-link.colored-2{
+    color: rgb(21, 114, 177);
+}
+.colored-text{
+    color: rgb(156, 216, 35);
+}
+.text.background-color{
+    background-color: yellow;
+}
+.box{
+    background-color: orange;
+    width: 378px;
+    height: 425px;
+    padding: 10px 15px;
+    margin: 78px 99px;
+    box-shadow: 15px 10px;
+    border-radius: 15px;
+}
+.img-box{
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    display: block;
+    width: 155%;
+}
+.navbar{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+.home-2{
+    background-color: rgb(102, 102, 238);
+    box-shadow: 5px 10px #888888;
+    height: 350px;
+    margin-left: 288px;
+    width: 200px;
+    border: gold;
+    border-radius: 13px;
+}
+.ahomebox{
+    background-color: rgb(102, 102, 238);
+    box-shadow: 5px 10px #888888;
+    height: 350px;
+    margin-left: 288px;
+    width: 200px;
+    border: gold;
+    border-radius: 13px;
+}
+.aflex{
+    display: flex;
+    flex-direction: row;
+}
+.abutton{
+    background-color: rgb(29, 28, 28);
+    border: none;
+    border-radius: 13px;
+    width: 128px;
+    height: 69px;
+    margin-left: 355px;
+    margin-top: 200px;
+    padding-right: 578px;
+    
+}
+.asecret-padding{
+    padding: 2px 0 0 252px;
+}
+.decor{
+    text-decoration: none;
+}
+.peding{
+    padding: 0 0 0 18px;
+}
+.codebox{
+    background-color: orange;
+    width: 200px;
+    padding: 188px;
+    height: 28px;
+    border-radius: 12px;
+}
+.codedesc{
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}
+.centeredpad{
+    padding-left: 188px;
+}
+.vv2flex{
+    display: block;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(191, 197, 197);
+    height: 48px;
+}
+.linav{
+    margin: 0 1vw;
+    list-style-type: none;
+    padding-top: 15px;
+}
+.libutbeter{
+    margin: 0px;
+    list-style-type: none;
+    font-size: larger;
+}
+.yeh{
+    margin: 0;
+}
+.yahaha{
+    margin: 0;
+}
+.navbuttons:hover{
+    background-color: gray;
+}
+.vasepad{
+    padding-right: 82px;
+    font-size: 32px;
+    list-style-type: none;
+}
+.ohwow{
+    text-decoration: none;
+    color: black;
+}
+.ohped{
+    padding-left: 22px;
+}
+.homeoffer{
+    padding-left: 552px;
+}
