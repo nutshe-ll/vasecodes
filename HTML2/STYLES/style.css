@@ -263,7 +263,8 @@ Staatliches = staatliches
 }
 .vasepad{
     padding-right: 82px;
-    font-size: 32px;
+    padding-top: 8px;
+    font-size: 25px;
     list-style-type: none;
 }
 .ohwow{
@@ -275,4 +276,7 @@ Staatliches = staatliches
 }
 .homeoffer{
     padding-left: 552px;
+}
+.notworking{
+    padding-left: 578px;
 }
