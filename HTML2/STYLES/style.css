@@ -278,5 +278,8 @@ Staatliches = staatliches
     padding-left: 552px;
 }
 .notworking{
-    padding-left: 578px;
+    padding-left: 582px;
+}
+.crosshair{
+    cursor: crosshair;
 }
